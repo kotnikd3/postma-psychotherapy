@@ -12,17 +12,21 @@
     </section>
     <div class="section has-text-centered">
         <div class="container is-max-desktop">
-            <div class="block has-bg-img-right">
-                <h2 class="title is-4" v-text="t('sessionsTitleOne')"></h2>
-                <p v-html="t('sessionsTextOne')"></p>
-            </div>
             <div class="block">
                 <h2 class="title is-4" v-text="t('sessionsTitleTwo')"></h2>
-                <p v-text="t('sessionsTextTwo')"></p>
+                <p class="has-text-weight-bold" v-text="t('sessionsTextTwo')"></p>
+                <ol>
+                    <li v-text="t('sessionsTextTwoFirstPoint')"></li>
+                    <li v-text="t('sessionsTextTwoSecondPoint')"></li>
+                </ol>
             </div>
             <div class="block has-bg-img-left">
                 <h2 class="title is-4" v-text="t('sessionsTitleThree')"></h2>
                 <p v-text="t('sessionsTextThree')"></p>
+            </div>
+            <div class="block has-bg-img-left">
+                <h2 class="title is-4" v-text="t('sessionsTitleThreeAndAHalf')"></h2>
+                <p v-text="t('sessionsTextThreeAndAHalf')"></p>
             </div>
             <div class="block">
                 <h2 class="title is-4" v-text="t('sessionsTitleFour')"></h2>

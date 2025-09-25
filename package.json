@@ -29,24 +29,24 @@
     "@fortawesome/fontawesome-svg-core": "^7.0.1",
     "@fortawesome/free-regular-svg-icons": "^7.0.1",
     "@fortawesome/free-solid-svg-icons": "^7.0.1",
-    "@fortawesome/vue-fontawesome": "^3.1.1",
+    "@fortawesome/vue-fontawesome": "^3.1.2",
     "bulma": "^1.0.4",
-    "vue": "^3.5.21",
+    "vue": "^3.5.22",
     "vue-i18n": "^11.1.12",
     "vue-router": "^4.5.1",
     "vue3-carousel": "^0.16.0"
   },
   "devDependencies": {
-    "@eslint/js": "^9.35.0",
+    "@eslint/js": "^9.36.0",
     "@vitejs/plugin-vue": "^6.0.1",
     "@vue/eslint-config-prettier": "^10.2.0",
-    "eslint": "^9.35.0",
-    "eslint-plugin-vue": "^10.4.0",
+    "eslint": "^9.36.0",
+    "eslint-plugin-vue": "^10.5.0",
     "prettier": "^3.6.2",
-    "sass": "^1.92.0",
+    "sass": "^1.93.2",
     "sass-loader": "^16.0.5",
-    "vite": "^7.1.4",
-    "vite-plugin-vue-devtools": "^8.0.1",
+    "vite": "^7.1.7",
+    "vite-plugin-vue-devtools": "^8.0.2",
     "vue-eslint-parser": "^10.2.0"
   }
 }
